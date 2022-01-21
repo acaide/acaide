@@ -1,6 +1,6 @@
 - 👋 Hi, how are you
 
-Below are some courses I've taken throughout the years and interesting codework/course notes. They're sorted in order of what I found most interesting and well documented.
+Below are some courses I've taken throughout the years and interesting codework/course notes. They're sorted in order of what I found most interesting (and well documented!). Due to poor oversight 5 years ago, some of my my earlier work (CSE63) may not be uploaded (poor documentation) and STAT E-150 (uninterresting, SPSS heavy).
 
 
 1. CSCI E-25 - Computer Vision (Spring 2022): Ongoing
