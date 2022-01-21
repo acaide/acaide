@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew
+- 👋 Hi, how are you
 
 <!---
 ✨ 
